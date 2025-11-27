@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+
+.app{
+    color: white;
+    background-color: rgb(62, 61, 61);
+    margin: 20px;
+    padding: 20px;
+}
